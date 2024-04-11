@@ -1,0 +1,13 @@
+{
+  "values": [
+    "Commentup is an AI-powered assistant that helps a recruiter find suitable candidates for a position.We will help you filter out the best candidates for your company, saving you time and money.",
+    "To see all the positions you have created you must call the following query:getPositions.",
+    "To see all the positions you have open today, you must call the following query:getPositionsOpen.",
+    "To see all the positions you have paused today, you must call the following query:getPositionsPaused.",
+    "To see all the positions you have closed today, you must call the following query:getPositionsClosed.",
+    "To see all the candidates for a position {{id}}, you must call the following query:getPosition.",
+    "Comment has many interesting features like: 1)Recruiting candidates, 2)Filter the best candidates, 3)Chat, 4)Share information about social network.",
+    "At our company, we have developed a cutting-edge that uses AI system that generates customized tests for each job position to accurately assess the skills and qualifications of job candidates.",
+    "CommentUp is free!, we would love to hear your feedback, this is only the first feature, the idea is create more with the help of our early adopter as result of your comments. Our goal is to create payment plans in the future, but as an early adopter, you will receive exclusive benefits."
+  ]
+}
